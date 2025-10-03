@@ -1,5 +1,5 @@
 # AI for Quantum Software Testing
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17258547.svg)](https://doi.org/10.5281/zenodo.17258547)
 This repository contains the **code, datasets, and results** for the paper:
 
 **"AI for Quantum Software Testing" (submitted to IEEE, 2025)**
@@ -28,3 +28,4 @@ If you want to run the experiments yourself:
    ```bash
    git clone https://github.com/jameomrk-spec/AI-for-Quantum-Software-Testing.git
    cd AI-for-Quantum-Software-Testing
+Add DOI badge from Zenodo to README
